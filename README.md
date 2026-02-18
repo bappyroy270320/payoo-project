@@ -1,1 +1,2 @@
-![Preview](./ui/Add Money.png)
+![Preview](./ui/AddMoney.png)
+![Preview](./img/Mary-Hardy-Portfolio-01.png)
